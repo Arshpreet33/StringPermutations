@@ -1,0 +1,15 @@
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/obj/Debug/net6.0/StringPermutations.csproj.AssemblyReference.cache
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/obj/Debug/net6.0/StringPermutations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/obj/Debug/net6.0/StringPermutations.AssemblyInfoInputs.cache
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/obj/Debug/net6.0/StringPermutations.AssemblyInfo.cs
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/obj/Debug/net6.0/StringPermutations.csproj.CoreCompileInputs.cache
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/bin/Debug/net6.0/StringPermutations
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/bin/Debug/net6.0/StringPermutations.deps.json
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/bin/Debug/net6.0/StringPermutations.runtimeconfig.json
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/bin/Debug/net6.0/StringPermutations.dll
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/bin/Debug/net6.0/StringPermutations.pdb
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/obj/Debug/net6.0/StringPermutations.dll
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/obj/Debug/net6.0/refint/StringPermutations.dll
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/obj/Debug/net6.0/StringPermutations.pdb
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/obj/Debug/net6.0/StringPermutations.genruntimeconfig.cache
+/Users/arshpreetsingh/MyProjects/Algorithms/String/StringPermutations/StringPermutations/obj/Debug/net6.0/ref/StringPermutations.dll
